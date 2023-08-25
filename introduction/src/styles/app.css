@@ -1,0 +1,11 @@
+.App {
+    max-width: 1200px; /* Adjust this value based on your design */
+    margin: 0 auto;
+}
+.btn-roof,
+.display {
+    margin: 0 auto;
+}
+.display {
+    padding: 20px;
+}
